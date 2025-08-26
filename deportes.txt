@@ -4,4 +4,3 @@ deportes:
 -Volleyball
 -Box
 -Tennis
--PingPong
