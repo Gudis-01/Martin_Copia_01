@@ -3,3 +3,5 @@ deportes:
 -Basketball
 -Volleyball
 -Box
+-Tennis
+-PingPong
