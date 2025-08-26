@@ -3,3 +3,5 @@ deportes:
 -Basketball
 -Volleyball
 -Box
+
+-concurso de camisetas mojadas
